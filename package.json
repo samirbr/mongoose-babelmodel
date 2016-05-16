@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/ConciergeAuctions/mongoose-babelmodel"
+    "url" : "https://github.com/samirbr/mongoose-babelmodel"
   },
   "devDependencies": {
     "babel": "^5.2.15",
